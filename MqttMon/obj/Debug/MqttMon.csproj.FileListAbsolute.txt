@@ -1,0 +1,12 @@
+C:\git\MqttMon\MqttMon\bin\Debug\MqttMon.exe.config
+C:\git\MqttMon\MqttMon\obj\Debug\MqttMon.MqttMon.resources
+C:\git\MqttMon\MqttMon\obj\Debug\MqttMon.Properties.Resources.resources
+C:\git\MqttMon\MqttMon\obj\Debug\MqttMon.csproj.GenerateResource.Cache
+C:\git\MqttMon\MqttMon\bin\Debug\MqttMon.exe
+C:\git\MqttMon\MqttMon\bin\Debug\MqttMon.pdb
+C:\git\MqttMon\MqttMon\bin\Debug\M2Mqtt.Net.dll
+C:\git\MqttMon\MqttMon\bin\Debug\M2Mqtt.Net.pdb
+C:\git\MqttMon\MqttMon\obj\Debug\MqttMon.csproj.CoreCompileInputs.cache
+C:\git\MqttMon\MqttMon\obj\Debug\MqttMon.exe
+C:\git\MqttMon\MqttMon\obj\Debug\MqttMon.pdb
+C:\git\MqttMon\MqttMon\obj\Debug\MqttMon.csprojResolveAssemblyReference.cache

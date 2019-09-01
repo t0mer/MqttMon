@@ -1,9 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MqttMon", "MqttMon\MqttMon.csproj", "{9A7B0A83-48E8-4E01-8767-CF39EA499306}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{D41C7A07-50D5-40CD-9F94-D5E483A1BACC}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.pdb = .nuget\NuGet.pdb
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MqttMonSetup", "MqttMonSetup\MqttMonSetup.vdproj", "{56A52873-4BC4-4A6D-8956-294915D1A7A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +25,13 @@ Global
 		{9A7B0A83-48E8-4E01-8767-CF39EA499306}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A7B0A83-48E8-4E01-8767-CF39EA499306}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A7B0A83-48E8-4E01-8767-CF39EA499306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A52873-4BC4-4A6D-8956-294915D1A7A8}.Debug|Any CPU.ActiveCfg = Debug
+		{56A52873-4BC4-4A6D-8956-294915D1A7A8}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13CBAD22-1F6A-44D7-B0FD-3C0E03C9119D}
 	EndGlobalSection
 EndGlobal
